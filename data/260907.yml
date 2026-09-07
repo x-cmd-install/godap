@@ -5,7 +5,7 @@ about:
   head: bf30290
   archived: false
   latestVersion: "v2.12.2"
-  collectedAt: 2026-09-07T04:48:52Z
+  collectedAt: 2026-09-07T19:40:19Z
 timeline:
   created: 2023-12-07
   lastCommit: 2026-08-21
@@ -79,7 +79,7 @@ total:
   commit: 190
 ---
 path: /home/runner/.x-repo/github.com/Macmod/godap
-collectedAt: 2026-09-07T04:48:53Z
+collectedAt: 2026-09-07T19:40:20Z
 loc:
   Go:
     code: 12189
@@ -100,7 +100,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:48:54+00:00
+  collectedAt: 2026-09-07T19:40:20+00:00
   platform:
     darwin/arm64:
       name:  godap-v2.12.2-darwin-arm64.tar.gz
