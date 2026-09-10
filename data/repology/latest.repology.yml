@@ -1,0 +1,351 @@
+- repo: homebrew
+  srcname: godap
+  visiblename: godap
+  version: 2.12.2
+  origversion: null
+  status: newest
+  summary: Complete TUI (terminal user interface) for LDAP
+- repo: alpine_3_21
+  subrepo: community
+  srcname: godap
+  binname: godap
+  visiblename: godap
+  version: 2.10.1
+  origversion: 2.10.1-r5
+  status: outdated
+  summary: A complete TUI for LDAP
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: alpine_3_21
+  subrepo: community
+  srcname: godap
+  binname: godap-bash-completion
+  visiblename: godap-bash-completion
+  version: 2.10.1
+  origversion: 2.10.1-r5
+  status: outdated
+  summary: Bash completions for godap
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: alpine_3_21
+  subrepo: community
+  srcname: godap
+  binname: godap-doc
+  visiblename: godap-doc
+  version: 2.10.1
+  origversion: 2.10.1-r5
+  status: outdated
+  summary: A complete TUI for LDAP (documentation)
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: alpine_3_21
+  subrepo: community
+  srcname: godap
+  binname: godap-fish-completion
+  visiblename: godap-fish-completion
+  version: 2.10.1
+  origversion: 2.10.1-r5
+  status: outdated
+  summary: Fish completions for godap
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: alpine_3_21
+  subrepo: community
+  srcname: godap
+  binname: godap-zsh-completion
+  visiblename: godap-zsh-completion
+  version: 2.10.1
+  origversion: 2.10.1-r5
+  status: outdated
+  summary: Zsh completions for godap
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: alpine_3_22
+  subrepo: community
+  srcname: godap
+  binname: godap
+  visiblename: godap
+  version: 2.10.6
+  origversion: 2.10.6-r4
+  status: outdated
+  summary: A complete TUI for LDAP
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: alpine_3_22
+  subrepo: community
+  srcname: godap
+  binname: godap-bash-completion
+  visiblename: godap-bash-completion
+  version: 2.10.6
+  origversion: 2.10.6-r4
+  status: outdated
+  summary: Bash completions for godap
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: alpine_3_22
+  subrepo: community
+  srcname: godap
+  binname: godap-doc
+  visiblename: godap-doc
+  version: 2.10.6
+  origversion: 2.10.6-r4
+  status: outdated
+  summary: A complete TUI for LDAP (documentation)
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: alpine_3_22
+  subrepo: community
+  srcname: godap
+  binname: godap-fish-completion
+  visiblename: godap-fish-completion
+  version: 2.10.6
+  origversion: 2.10.6-r4
+  status: outdated
+  summary: Fish completions for godap
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: alpine_3_22
+  subrepo: community
+  srcname: godap
+  binname: godap-zsh-completion
+  visiblename: godap-zsh-completion
+  version: 2.10.6
+  origversion: 2.10.6-r4
+  status: outdated
+  summary: Zsh completions for godap
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: alpine_3_23
+  subrepo: community
+  srcname: godap
+  binname: godap
+  visiblename: godap
+  version: 2.10.10
+  origversion: 2.10.10-r3
+  status: outdated
+  summary: A complete TUI for LDAP
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: alpine_3_23
+  subrepo: community
+  srcname: godap
+  binname: godap-bash-completion
+  visiblename: godap-bash-completion
+  version: 2.10.10
+  origversion: 2.10.10-r3
+  status: outdated
+  summary: Bash completions for godap
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: alpine_3_23
+  subrepo: community
+  srcname: godap
+  binname: godap-doc
+  visiblename: godap-doc
+  version: 2.10.10
+  origversion: 2.10.10-r3
+  status: outdated
+  summary: A complete TUI for LDAP (documentation)
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: alpine_3_23
+  subrepo: community
+  srcname: godap
+  binname: godap-fish-completion
+  visiblename: godap-fish-completion
+  version: 2.10.10
+  origversion: 2.10.10-r3
+  status: outdated
+  summary: Fish completions for godap
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: alpine_3_23
+  subrepo: community
+  srcname: godap
+  binname: godap-zsh-completion
+  visiblename: godap-zsh-completion
+  version: 2.10.10
+  origversion: 2.10.10-r3
+  status: outdated
+  summary: Zsh completions for godap
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: alpine_3_24
+  subrepo: community
+  srcname: godap
+  binname: godap
+  visiblename: godap
+  version: 2.11.0
+  origversion: 2.11.0-r4
+  status: outdated
+  summary: A complete TUI for LDAP
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: alpine_3_24
+  subrepo: community
+  srcname: godap
+  binname: godap-bash-completion
+  visiblename: godap-bash-completion
+  version: 2.11.0
+  origversion: 2.11.0-r4
+  status: outdated
+  summary: Bash completions for godap
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: alpine_3_24
+  subrepo: community
+  srcname: godap
+  binname: godap-doc
+  visiblename: godap-doc
+  version: 2.11.0
+  origversion: 2.11.0-r4
+  status: outdated
+  summary: A complete TUI for LDAP (documentation)
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: alpine_3_24
+  subrepo: community
+  srcname: godap
+  binname: godap-fish-completion
+  visiblename: godap-fish-completion
+  version: 2.11.0
+  origversion: 2.11.0-r4
+  status: outdated
+  summary: Fish completions for godap
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: alpine_3_24
+  subrepo: community
+  srcname: godap
+  binname: godap-zsh-completion
+  visiblename: godap-zsh-completion
+  version: 2.11.0
+  origversion: 2.11.0-r4
+  status: outdated
+  summary: Zsh completions for godap
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: alpine_edge
+  subrepo: community
+  srcname: godap
+  binname: godap
+  visiblename: godap
+  version: 2.12.2
+  origversion: 2.12.2-r0
+  status: newest
+  summary: A complete TUI for LDAP
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: alpine_edge
+  subrepo: community
+  srcname: godap
+  binname: godap-bash-completion
+  visiblename: godap-bash-completion
+  version: 2.12.2
+  origversion: 2.12.2-r0
+  status: newest
+  summary: Bash completions for godap
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: alpine_edge
+  subrepo: community
+  srcname: godap
+  binname: godap-doc
+  visiblename: godap-doc
+  version: 2.12.2
+  origversion: 2.12.2-r0
+  status: newest
+  summary: A complete TUI for LDAP (documentation)
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: alpine_edge
+  subrepo: community
+  srcname: godap
+  binname: godap-fish-completion
+  visiblename: godap-fish-completion
+  version: 2.12.2
+  origversion: 2.12.2-r0
+  status: newest
+  summary: Fish completions for godap
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: alpine_edge
+  subrepo: community
+  srcname: godap
+  binname: godap-zsh-completion
+  visiblename: godap-zsh-completion
+  version: 2.12.2
+  origversion: 2.12.2-r0
+  status: newest
+  summary: Zsh completions for godap
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: aur
+  srcname: godap-bin
+  binname: godap-bin
+  visiblename: godap-bin
+  version: v2.11.1
+  origversion: v2.11.1-1
+  status: outdated
+  summary: A complete TUI for LDAP.
+  maintainers:
+    - killab33z@aur
+  licenses:
+    - MIT
+- repo: homebrew
+  srcname: godap
+  visiblename: godap
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Complete TUI (terminal user interface) for LDAP
