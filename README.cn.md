@@ -4,7 +4,7 @@
 
 A complete terminal user interface (TUI) for LDAP.
 
-![godap](https://repo.x-cmd.io/godap.svg)
+![godap](https://repo.x-cmd.io/godap.svg?lang=zh)
 
 ## 安装
 
@@ -22,7 +22,25 @@ x install godap
 - **最新版本**: `v2.12.2` (2026-08-21)
 - **最近提交**: 2026-08-21
 - **Release 含资产**: 14 个
-- **发布时间**: 2026-08-21T18:29:10Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [godap-v2.12.2-darwin-amd64.tar.gz](https://github.com/Macmod/godap/releases/download/v2.12.2/godap-v2.12.2-darwin-amd64.tar.gz) | 10.2 MiB | `native/darwin/x64` |
+| [godap-v2.12.2-darwin-amd64.tar.gz.md5](https://github.com/Macmod/godap/releases/download/v2.12.2/godap-v2.12.2-darwin-amd64.tar.gz.md5) | 33 B | `native/darwin/x64` |
+| [godap-v2.12.2-darwin-arm64.tar.gz](https://github.com/Macmod/godap/releases/download/v2.12.2/godap-v2.12.2-darwin-arm64.tar.gz) | 9.5 MiB | `native/darwin/arm64` |
+| [godap-v2.12.2-darwin-arm64.tar.gz.md5](https://github.com/Macmod/godap/releases/download/v2.12.2/godap-v2.12.2-darwin-arm64.tar.gz.md5) | 33 B | `native/darwin/arm64` |
+| [godap-v2.12.2-linux-386.tar.gz](https://github.com/Macmod/godap/releases/download/v2.12.2/godap-v2.12.2-linux-386.tar.gz) | 9.7 MiB | `native/unknown` |
+| [godap-v2.12.2-linux-386.tar.gz.md5](https://github.com/Macmod/godap/releases/download/v2.12.2/godap-v2.12.2-linux-386.tar.gz.md5) | 33 B | `other` |
+| [godap-v2.12.2-linux-amd64.tar.gz](https://github.com/Macmod/godap/releases/download/v2.12.2/godap-v2.12.2-linux-amd64.tar.gz) | 10.0 MiB | `native/linux/x64` |
+| [godap-v2.12.2-linux-amd64.tar.gz.md5](https://github.com/Macmod/godap/releases/download/v2.12.2/godap-v2.12.2-linux-amd64.tar.gz.md5) | 33 B | `native/linux/x64` |
+| [godap-v2.12.2-linux-arm64.tar.gz](https://github.com/Macmod/godap/releases/download/v2.12.2/godap-v2.12.2-linux-arm64.tar.gz) | 9.1 MiB | `native/linux/arm64` |
+| [godap-v2.12.2-linux-arm64.tar.gz.md5](https://github.com/Macmod/godap/releases/download/v2.12.2/godap-v2.12.2-linux-arm64.tar.gz.md5) | 33 B | `native/linux/arm64` |
+| [godap-v2.12.2-windows-386.zip](https://github.com/Macmod/godap/releases/download/v2.12.2/godap-v2.12.2-windows-386.zip) | 9.7 MiB | `native/win/x64` |
+| [godap-v2.12.2-windows-386.zip.md5](https://github.com/Macmod/godap/releases/download/v2.12.2/godap-v2.12.2-windows-386.zip.md5) | 33 B | `native/win/x64` |
+| [godap-v2.12.2-windows-amd64.zip](https://github.com/Macmod/godap/releases/download/v2.12.2/godap-v2.12.2-windows-amd64.zip) | 9.9 MiB | `native/win/x64` |
+| [godap-v2.12.2-windows-amd64.zip.md5](https://github.com/Macmod/godap/releases/download/v2.12.2/godap-v2.12.2-windows-amd64.zip.md5) | 33 B | `native/win/x64` |
 
 ## 流行度
 
@@ -58,4 +76,4 @@ godap 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:54:56Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:36:34Z._
