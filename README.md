@@ -12,6 +12,15 @@ A complete terminal user interface (TUI) for LDAP.
 x install godap
 ```
 
+## Code insight
+
+Total: **12,189** lines of code across **36** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Go | 12,189 | 646 | 2,044 | 34 |
+| Markdown | 0 | 220 | 68 | 2 |
+
 ## Source
 
 - **Upstream**: <https://github.com/Macmod/godap>
@@ -22,6 +31,25 @@ x install godap
 - **Latest**: `v2.12.2` (2026-08-21)
 - **Last commit**: 2026-08-21
 - **Assets in release**: 14
+
+## Popularity
+
+- **Stars**: 978 · **Forks**: 37 · **Open issues**: 27 · **Contributors**: 5
+
+## Totals (cumulative)
+
+- **Releases**: 39 · **Merged PRs**: 7 · **Open PRs**: 1 · **Closed issues**: 23 · **Open issues**: 4 · **Commits**: 190
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 3 | 0 | 0 | 0 | 0 | 6 |
+| last60d | 2026-07-12 | 3 | 1 | 1 | 0 | 0 | 13 |
+| 90d | 2026-06-12 | 4 | 1 | 1 | 3 | 0 | 14 |
+| last180d | 2026-03-14 | 4 | 1 | 1 | 3 | 1 | 14 |
+| 360d | 2025-09-15 | 9 | 3 | 1 | 3 | 4 | 34 |
+| last720d | 2024-09-20 | 18 | 4 | 1 | 13 | 4 | 88 |
 
 ## Release assets
 
@@ -42,30 +70,14 @@ x install godap
 | [godap-v2.12.2-windows-amd64.zip](https://github.com/Macmod/godap/releases/download/v2.12.2/godap-v2.12.2-windows-amd64.zip) | 9.9 MiB | `native/win/x64` |
 | [godap-v2.12.2-windows-amd64.zip.md5](https://github.com/Macmod/godap/releases/download/v2.12.2/godap-v2.12.2-windows-amd64.zip.md5) | 33 B | `native/win/x64` |
 
-## Popularity
+## Distribution status
 
-- **Stars**: 978 · **Forks**: 37 · **Open issues**: 27 · **Contributors**: 5
+Reported by **28** distros on [repology.org](https://repology.org/project/godap). **6** are ✅ on the latest upstream release, **21** are ⚠️ on an older version.
 
-## Totals (cumulative)
-
-- **Releases**: 39 · **Merged PRs**: 7 · **Open PRs**: 1 · **Closed issues**: 23 · **Open issues**: 4 · **Commits**: 190
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 3 | 0 | 0 | 0 | 0 | 6 |
-| 90d | 2026-06-12 | 4 | 1 | 1 | 3 | 0 | 14 |
-| 360d | 2025-09-15 | 9 | 3 | 1 | 3 | 4 | 34 |
-
-## Code size
-
-Total: **12,189** lines of code across **36** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Go | 12,189 | 646 | 2,044 | 34 |
-| Markdown | 0 | 220 | 68 | 2 |
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `2.12.2` | ✅ latest |
+| Alpine edge | `2.12.2` | ✅ latest |
 
 ## Improve this data
 
@@ -76,4 +88,4 @@ Install metadata for godap lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:36:34Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T21:06:17Z._
