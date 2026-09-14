@@ -44,12 +44,12 @@ Total: **12,189** lines of code across **36** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 3 | 0 | 0 | 0 | 0 | 3 |
-| last60d | 2026-07-15 | 3 | 1 | 0 | 0 | 0 | 6 |
-| 90d | 2026-06-15 | 4 | 1 | 0 | 3 | 0 | 14 |
-| last180d | 2026-03-17 | 4 | 1 | 0 | 3 | 1 | 14 |
-| 360d | 2025-09-18 | 9 | 3 | 0 | 3 | 4 | 34 |
-| last720d | 2024-09-23 | 18 | 4 | 0 | 13 | 4 | 88 |
+| 30d | 2026-08-15 | 3 | 0 | 0 | 0 | 0 | 3 |
+| last60d | 2026-07-16 | 3 | 1 | 0 | 0 | 0 | 6 |
+| 90d | 2026-06-16 | 4 | 1 | 0 | 3 | 0 | 14 |
+| last180d | 2026-03-18 | 4 | 1 | 0 | 3 | 1 | 14 |
+| 360d | 2025-09-19 | 9 | 3 | 0 | 3 | 4 | 34 |
+| last720d | 2024-09-24 | 18 | 4 | 0 | 13 | 4 | 88 |
 
 ## Release assets
 
@@ -70,15 +70,6 @@ Total: **12,189** lines of code across **36** files in the top 5 languages.
 | [godap-v2.12.2-windows-amd64.zip](https://github.com/Macmod/godap/releases/download/v2.12.2/godap-v2.12.2-windows-amd64.zip) | 9.9 MiB | `native/win/x64` |
 | [godap-v2.12.2-windows-amd64.zip.md5](https://github.com/Macmod/godap/releases/download/v2.12.2/godap-v2.12.2-windows-amd64.zip.md5) | 33 B | `native/win/x64` |
 
-## Distribution status
-
-Reported by **28** distros on [repology.org](https://repology.org/project/godap). **6** are ✅ on the latest upstream release, **21** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `2.12.2` | ✅ latest |
-| Alpine edge | `2.12.2` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for godap lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `godap` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -88,4 +79,4 @@ Install metadata for godap lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:00:40Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:01:55Z._
