@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 33,
       "digest": "sha256:aa230decdf245bf04f71cef276fff3e145af309472c44e4d2bf43c485ba32421",
-      "download_count": 1,
+      "download_count": 3,
       "created_at": "2026-08-21T18:29:56Z",
       "updated_at": "2026-08-21T18:29:56Z",
       "browser_download_url": "https://github.com/Macmod/godap/releases/download/v2.12.2/godap-v2.12.2-darwin-amd64.tar.gz.md5"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 33,
       "digest": "sha256:c5e9e0897ad12f0214f54eb17d28e9acde7da9f7a98da8581d9eaf1207fa0e10",
-      "download_count": 1,
+      "download_count": 3,
       "created_at": "2026-08-21T18:29:52Z",
       "updated_at": "2026-08-21T18:29:52Z",
       "browser_download_url": "https://github.com/Macmod/godap/releases/download/v2.12.2/godap-v2.12.2-darwin-arm64.tar.gz.md5"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 10494380,
       "digest": "sha256:e739c2c4aa59f2d8b08e494824a772f8f4afe4bf3bd9e3f9821a0ea8a4b0c528",
-      "download_count": 95,
+      "download_count": 97,
       "created_at": "2026-08-21T18:29:56Z",
       "updated_at": "2026-08-21T18:29:57Z",
       "browser_download_url": "https://github.com/Macmod/godap/releases/download/v2.12.2/godap-v2.12.2-linux-amd64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 33,
       "digest": "sha256:9678881a59b3654a0495c3d4ac691cdb7d91dc5c7a5108d39f0e5617097ace19",
-      "download_count": 2,
+      "download_count": 4,
       "created_at": "2026-08-21T18:29:57Z",
       "updated_at": "2026-08-21T18:29:58Z",
       "browser_download_url": "https://github.com/Macmod/godap/releases/download/v2.12.2/godap-v2.12.2-linux-amd64.tar.gz.md5"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 33,
       "digest": "sha256:dc74a9edc8a196d302abc501577e8a81b54ddfa799dfa6ea579e1debd3379e15",
-      "download_count": 1,
+      "download_count": 3,
       "created_at": "2026-08-21T18:29:51Z",
       "updated_at": "2026-08-21T18:29:52Z",
       "browser_download_url": "https://github.com/Macmod/godap/releases/download/v2.12.2/godap-v2.12.2-linux-arm64.tar.gz.md5"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 33,
       "digest": "sha256:149926588781a854a62c33860e0c8b8ad1a366aacdb52d51906f1549328e17f0",
-      "download_count": 2,
+      "download_count": 4,
       "created_at": "2026-08-21T18:29:54Z",
       "updated_at": "2026-08-21T18:29:55Z",
       "browser_download_url": "https://github.com/Macmod/godap/releases/download/v2.12.2/godap-v2.12.2-windows-amd64.zip.md5"
