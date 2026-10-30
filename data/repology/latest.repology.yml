@@ -264,7 +264,7 @@
   binname: godap
   visiblename: godap
   version: 2.12.2
-  origversion: 2.12.2-r0
+  origversion: 2.12.2-r1
   status: newest
   summary: A complete TUI for LDAP
   maintainers:
@@ -277,7 +277,7 @@
   binname: godap-bash-completion
   visiblename: godap-bash-completion
   version: 2.12.2
-  origversion: 2.12.2-r0
+  origversion: 2.12.2-r1
   status: newest
   summary: Bash completions for godap
   maintainers:
@@ -290,7 +290,7 @@
   binname: godap-doc
   visiblename: godap-doc
   version: 2.12.2
-  origversion: 2.12.2-r0
+  origversion: 2.12.2-r1
   status: newest
   summary: A complete TUI for LDAP (documentation)
   maintainers:
@@ -303,7 +303,7 @@
   binname: godap-fish-completion
   visiblename: godap-fish-completion
   version: 2.12.2
-  origversion: 2.12.2-r0
+  origversion: 2.12.2-r1
   status: newest
   summary: Fish completions for godap
   maintainers:
@@ -316,7 +316,7 @@
   binname: godap-zsh-completion
   visiblename: godap-zsh-completion
   version: 2.12.2
-  origversion: 2.12.2-r0
+  origversion: 2.12.2-r1
   status: newest
   summary: Zsh completions for godap
   maintainers:
