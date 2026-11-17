@@ -180,6 +180,19 @@
     - omni+alpine@hack.org
   licenses:
     - MIT
+- repo: aur
+  srcname: godap-bin
+  binname: godap-bin
+  visiblename: godap-bin
+  version: v2.12.2
+  origversion: v2.12.2-1
+  status: outdated
+  summary: A complete TUI for LDAP.
+  maintainers:
+    - killab33z@aur
+    - macmod@aur
+  licenses:
+    - MIT
 - repo: alpine_3_23
   subrepo: community
   srcname: godap
@@ -321,18 +334,6 @@
   summary: Zsh completions for godap
   maintainers:
     - omni+alpine@hack.org
-  licenses:
-    - MIT
-- repo: aur
-  srcname: godap-bin
-  binname: godap-bin
-  visiblename: godap-bin
-  version: v2.11.1
-  origversion: v2.11.1-1
-  status: outdated
-  summary: A complete TUI for LDAP.
-  maintainers:
-    - killab33z@aur
   licenses:
     - MIT
 - repo: homebrew
