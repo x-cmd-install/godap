@@ -34,7 +34,7 @@ Total: **12,189** lines of code across **36** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 998 · **Forks**: 40 · **Open issues**: 27 · **Contributors**: 7
+- **Stars**: 999 · **Forks**: 40 · **Open issues**: 27 · **Contributors**: 7
 
 ## Totals (cumulative)
 
@@ -44,12 +44,12 @@ Total: **12,189** lines of code across **36** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 1 | 0 | 0 | 0 | 1 |
-| last60d | 2026-09-26 | 0 | 1 | 0 | 0 | 0 | 1 |
-| 90d | 2026-08-27 | 0 | 1 | 0 | 0 | 0 | 1 |
-| last180d | 2026-05-29 | 4 | 2 | 0 | 3 | 1 | 15 |
-| 360d | 2025-11-30 | 8 | 3 | 0 | 3 | 4 | 27 |
-| last720d | 2024-12-05 | 14 | 5 | 0 | 12 | 4 | 66 |
+| 30d | 2026-10-27 | 0 | 1 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-27 | 0 | 1 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-28 | 0 | 1 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-30 | 4 | 2 | 0 | 3 | 1 | 0 |
+| 360d | 2025-12-01 | 8 | 3 | 0 | 3 | 4 | 0 |
+| last720d | 2024-12-06 | 14 | 5 | 0 | 12 | 4 | 66 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for godap lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T08:47:53Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T08:13:00Z._
